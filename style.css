@@ -1,0 +1,123 @@
+body {
+    text-align: center;
+    font-family: Oswald;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-size: 5rem;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+h5 {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+/* Navigation */
+/* .navigation-bar {
+    padding: 30px;
+} */
+
+.nav-item {
+    padding: 0 50px;
+}
+
+/* Intro */
+.main-container {
+    height: 800px;
+    background-image: url("../../website/code.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10%;
+    padding: 10% 0;
+}
+
+
+
+.main-title {
+    color: white;
+
+}
+
+.sub-title {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.7);
+    font-weight: 400;
+    padding: 0;
+}
+
+/* Projects */
+.projects-container {
+    padding-bottom: 10%;
+}
+
+.project-card {
+
+    margin: 5%;
+}
+
+.card-image {
+    height: 400px;
+}
+
+/* Carousel */
+.carousel-container {
+    padding-top: 32px;
+}
+
+.carousel-item {
+    background-color: #fff;
+
+}
+
+
+
+
+.carousel-text {
+    color: black;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.7);
+
+
+}
+
+
+
+.carousel-1 {
+    background-image: url("../../website/keyboard.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+
+}
+
+.carousel-2 {
+    background-image: url("../../website/keyboard.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.carousel-3 {
+    background-image: url("../../website/keyboard.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+/* Footer */
+
+.contact-info {
+    padding-top: 10%;
+}

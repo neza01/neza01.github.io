@@ -25,10 +25,6 @@ p {
 }
 
 /* Navigation */
-/* .navigation-bar {
-    padding: 30px;
-} */
-
 .nav-item {
     padding: 0 50px;
 }
@@ -36,18 +32,15 @@ p {
 /* Intro */
 .main-container {
     height: 800px;
-    background-image: url("../../website/code.jpg");
+    background-image: url("code.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 10%;
     padding: 10% 0;
 }
 
-
-
 .main-title {
     color: white;
-
 }
 
 .sub-title {
@@ -63,7 +56,6 @@ p {
 }
 
 .project-card {
-
     margin: 5%;
 }
 
@@ -81,36 +73,28 @@ p {
 
 }
 
-
-
-
 .carousel-text {
     color: black;
     padding: 40px;
     background: rgba(255, 255, 255, 0.7);
-
-
 }
 
-
-
 .carousel-1 {
-    background-image: url("../../website/keyboard.jpg");
+    background-image: url("keyboard.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
-
 }
 
 .carousel-2 {
-    background-image: url("../../website/keyboard.jpg");
+    background-image: url("keyboard.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
 }
 
 .carousel-3 {
-    background-image: url("../../website/keyboard.jpg");
+    background-image: url("keyboard.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
